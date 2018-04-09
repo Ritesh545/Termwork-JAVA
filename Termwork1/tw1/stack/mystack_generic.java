@@ -14,7 +14,7 @@ public class mystack_generic <E>
 
        public int push (E item)
           {
-            if(top>=3)
+            if(top>3)
                {
                  return -1;
                }
