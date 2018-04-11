@@ -12,7 +12,7 @@ public class game extends Applet
 implements ActionListener
 {
 	String msg=" ";
-	TextField t1;CD
+	TextField t1;
         TextField t2,t3;
         Label l1;
         String RES;
