@@ -1,0 +1,5 @@
+To do program in netbeans,
+Follow the step mention in this two video and replace the code which is provided in this folder.
+
+part 1-https://www.youtube.com/watch?v=el2PHj-XD4o&t=25s
+part 2-https://www.youtube.com/watch?v=9sUn6WVXgmM
